@@ -1,0 +1,36 @@
+Veri Seti Hikayesi
+Bu veri seti, sosyal medya kullanımının intihar oranları üzerindeki etkisini incelemeyi amaçlayan bir çalışmanın sonucu
+olarak oluşturulmuş bir koleksiyonu temsil etmektedir. Veri seti, sosyal medya platformları ile
+Dünya Sağlık Örgütü'nün (WHO) intihar oranı istatistiklerini birleştirerek, sosyal medya aktivitesindeki artış ile
+intihar oranları arasındaki olası ilişkileri anlamayı hedeflemektedir. Çalışma, farklı bölgeler ve demografik gruplar
+üzerinde analizler yapmak için kullanılabilir.
+
+
+
+DEĞİŞKENLER
+
+Year (Yıl): Kaydedilen verilerin yılı. Bu değişken, zaman serisi analizi yapmak için kullanılabilir.
+
+Sex (Cinsiyet): Demografik bir gösterge olup erkek veya kadın olarak iki kategoriden birini içerir.
+
+Suicide Rate % Change Since 2010: 2010 yılına kıyasla intihar oranlarındaki yüzdelik değişim. Örneğin,
+bir değerin pozitif olması intihar oranlarında artışı, negatif olması ise azalmayı ifade eder.
+
+#Twitter User Count % Change Since 2010: 2010 yılına kıyasla Twitter kullanıcı sayısındaki yüzdelik değişim.
+Bu değişken, sosyal medya aktivitelerindeki artışı analiz etmek için kullanılabilir.
+
+Facebook User Count % Change Since 2010: 2010 yılına kıyasla Facebook kullanıcı sayısındaki yüzdelik değişim.
+Sosyal medya platformunun kullanım yoğunluğundaki değişimi temsil eder.
+
+
+
+SORULAR
+
+İntihar oranlarında gözlemlenen en büyük artış, hangi sosyal medya platformundaki kullanıcı artışıyla daha güçlü
+bir ilişki gösteriyor?
+
+Facebook kullanıcı sayısındaki yüzdelik değişim, intihar oranlarını hangi yıllarda daha fazla etkilemiş?
+
+Twitter kullanıcı artışının yoğun olduğu yıllarda intihar oranları daha yüksek mi?
+
+Hangi Yılda Sosyal medya artışı ve intihar oranı artışı yüzdelik farkı birbirine daha yakın?
